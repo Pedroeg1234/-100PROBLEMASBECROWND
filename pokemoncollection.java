@@ -31,7 +31,7 @@ public class pokemoncollection {
     }
 }
     
-       System.out.println(elementounico);
+       System.out.println(151 - elementounico);
 
        
     }
